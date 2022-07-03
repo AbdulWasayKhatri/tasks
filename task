@@ -1,0 +1,28 @@
+for i in "Myblog":
+    print ([i, '?'])
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    s = "Shut down"
+n = "Dont shut down"
+
+def shut_down(s):
+    if shut_down == s:
+        print("shutting down")
+    elif shut_down == n:
+        print("shutdown abborted")
+    else:
+        print("sorry")
+shut_down(s)
